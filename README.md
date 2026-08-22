@@ -28,7 +28,7 @@ I design and build machine learning and deep learning forecasting systems, predi
 
 ## 👨‍💻 About Me
 
-I am a **Machine Learning, Data Engineering and Energy Systems professional** with experience designing end-to-end analytical systems, predictive models, deep learning architectures, multivariate time-series forecasting solutions, automated ETL/ELT pipelines, relational and dimensional data models, cloud platforms and interactive business intelligence applications.
+I am a **Machine Learning, Data Engineering and Whole Systems professional** with experience designing end-to-end analytical systems, predictive models, deep learning architectures, multivariate time-series forecasting solutions, automated ETL/ELT pipelines, relational and dimensional data models, cloud platforms and interactive business intelligence applications.
 
 My work sits at the intersection of:
 
@@ -43,7 +43,7 @@ My work sits at the intersection of:
 - ⚡ **Energy Systems, Electricity Markets & Infrastructure Analytics**
 - 🛡️ **Data Quality, Governance, Monitoring & Auditability**
 
-I currently work within the **Centre for Data and Complex Systems Research at Edge Hill University**, where I develop forecasting, machine learning, data engineering and analytics solutions for energy and infrastructure applications.
+I currently work within the **Centre for Data and Complex Systems Research at Edge Hill University**, where I develop forecasting, machine learning, data engineering and analytics solutions for whole systems and infrastructure applications.
 
 My work includes the integration of large operational datasets, automated ingestion pipelines, feature engineering, temporal modelling, deep learning, data quality assurance, dimensional modelling, cloud deployment, interactive dashboards and decision-support systems.
 
