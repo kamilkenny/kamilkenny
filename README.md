@@ -128,7 +128,7 @@ The architecture incorporates:
 - SSRS reporting architecture
 - Visual Studio development
 
-🔗 [Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
+## 🔗 [Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
 
@@ -149,8 +149,9 @@ The system analyses:
 
 The architecture uses PySpark and Databricks for scalable processing, Delta Lake for managed analytical data, Unity Catalog for governed data organisation and PostgreSQL for operational analytical delivery.
 
-🔗 [Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
-🌐 [Live Platform](https://gb-generation-intelligence-kamil.azurewebsites.net/)
+## 🌐 [Live Platform](https://gb-generation-intelligence-kamil.azurewebsites.net/)
+## 🔗 [Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
+
 
 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
 ---
@@ -197,8 +198,8 @@ The system supports:
 - PostgreSQL persistence
 - Interactive Streamlit visualisation
 
-🔗 [Repository](https://github.com/kamilkenny/neso-wind-forecast-monitor)  
-🌐 [Live Dashboard](https://neso-wind-forecast-monitor-knbc32cgs89awbzxdfujqi.streamlit.app/)
+## 🌐 [Live Dashboard](https://neso-wind-forecast-monitor-knbc32cgs89awbzxdfujqi.streamlit.app/)
+## 🔗 [Repository](https://github.com/kamilkenny/neso-wind-forecast-monitor)  
 
 
 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-cloud-based-neso-wind-forecast-revision-monitor-with-python-supabase-github-actions-699e348dae71
@@ -267,8 +268,8 @@ The wider modelling framework includes benchmarking against machine learning and
 
 The project also includes comprehensive exploratory data analysis and a real-time forecasting web application.
 
-🔗 [Repository](https://github.com/kamilkenny/EDA)  
-🌐 [Forecasting Application](https://kamil-deployment-of-edgehill-durning.onrender.com/)  
+## 🔗 [Repository](https://github.com/kamilkenny/EDA)  
+# 🌐 [Forecasting Application](https://kamil-deployment-of-edgehill-durning.onrender.com/)  
 📊 [Exploratory Data Analysis Notebook](https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20%28EDA%29%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb)
 
 ---
