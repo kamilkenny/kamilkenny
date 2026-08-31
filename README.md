@@ -557,9 +557,6 @@ My doctoral research includes:
 - Predictive analytics
 - Real-time web inferencing
 
-🎓 **MSc Electrical/Electronic Engineering, Distinction**
-
-🎓 **BEng Electrical Engineering, Second Class Upper**
 
 ---
 
