@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil Ridwan Kehinde</h1>
+<h1 align="center">Hi 👋, I'm Kamil, Ridwan Kehinde</h1>
 
 <h3 align="center">
 Machine Learning & Time-Series Forecasting | Data Engineering | Whole Systems Scientist
