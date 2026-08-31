@@ -97,10 +97,9 @@ The platform demonstrates practical implementation of:
 - GitHub Actions automation
 - Cloud application deployment
 
-🔗 [Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
-🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
-
-📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
+## 🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
+## 🔗 [Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
+## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
 
 
 ---
@@ -153,7 +152,7 @@ The architecture uses PySpark and Databricks for scalable processing, Delta Lake
 ## 🔗 [Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
 
 
-📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
+## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
 ---
 
 ## 🔌 Great Britain Grid Congestion & Constraint Cost Intelligence Analytics
