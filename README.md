@@ -98,7 +98,7 @@ The platform demonstrates practical implementation of:
 - Cloud application deployment
 
 ## 🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
-## 🔗 [Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
+## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
 ## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
 
 
@@ -127,7 +127,7 @@ The architecture incorporates:
 - SSRS reporting architecture
 - Visual Studio development
 
-## 🔗 [Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
+## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
 
@@ -149,7 +149,7 @@ The system analyses:
 The architecture uses PySpark and Databricks for scalable processing, Delta Lake for managed analytical data, Unity Catalog for governed data organisation and PostgreSQL for operational analytical delivery.
 
 ## 🌐 [Live Platform](https://gb-generation-intelligence-kamil.azurewebsites.net/)
-## 🔗 [Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
+## 🔗 [Project Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
 
 
 ## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
@@ -172,8 +172,9 @@ The platform analyses:
 
 Predictive modelling was incorporated to identify elevated grid constraint risk.
 
-🔗 [Repository](https://github.com/kamilkenny/GB-Grid-Congestion-Intelligence-Analytics)  
-🌐 [Live Platform](https://gb-grid-congestion-kamil-898341.azurewebsites.net/)
+## 🌐 [Live Platform](https://gb-grid-congestion-kamil-898341.azurewebsites.net/)
+## 🔗 [Project Repository](https://github.com/kamilkenny/GB-Grid-Congestion-Intelligence-Analytics)  
+
 
 
 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/from-open-grid-data-to-azure-building-a-great-britain-grid-congestion-and-constraint-cost-e5c4e90a54a0
@@ -198,7 +199,7 @@ The system supports:
 - Interactive Streamlit visualisation
 
 ## 🌐 [Live Dashboard](https://neso-wind-forecast-monitor-knbc32cgs89awbzxdfujqi.streamlit.app/)
-## 🔗 [Repository](https://github.com/kamilkenny/neso-wind-forecast-monitor)  
+## 🔗 [Project Repository](https://github.com/kamilkenny/neso-wind-forecast-monitor)  
 
 
 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-cloud-based-neso-wind-forecast-revision-monitor-with-python-supabase-github-actions-699e348dae71
@@ -228,11 +229,13 @@ The deployed system supports both:
 
 **Hindcasting**, for performing offline inference on historical time steps and analysing model residual errors.
 
-🔗 [Repository](https://github.com/kamilkenny/A.I.-Forecasting-Modelling-with-Great-Britain-s-System-Operator-Generation-Outputs-NESO-Data-Portal-)  
-🌐 [Streamlit Application](https://kamil-uk-energy-generation-real-time-forecast.streamlit.app/)  
-🌐 [Render Application](https://deployment-of-uk-electricity-generation.onrender.com/)  
+## 🌐 [Streamlit Web Application](https://kamil-uk-energy-generation-real-time-forecast.streamlit.app/) 
 
-📝 [Medium Article](https://medium.com/@kamilkenny22/ai-driven-forecasting-and-modelling-of-great-britains-system-operator-generation-outputs-bdcce3a6a387?postPublishedType=repub)
+## 🔗 [Project Repository](https://github.com/kamilkenny/A.I.-Forecasting-Modelling-with-Great-Britain-s-System-Operator-Generation-Outputs-NESO-Data-Portal-)  
+ 
+## 🌐 [Render Application](https://deployment-of-uk-electricity-generation.onrender.com/)  
+
+## 📝 [Medium Article](https://medium.com/@kamilkenny22/ai-driven-forecasting-and-modelling-of-great-britains-system-operator-generation-outputs-bdcce3a6a387?postPublishedType=repub)
 
 ---
 
@@ -267,8 +270,8 @@ The wider modelling framework includes benchmarking against machine learning and
 
 The project also includes comprehensive exploratory data analysis and a real-time forecasting web application.
 
-## 🔗 [Repository](https://github.com/kamilkenny/EDA)  
-# 🌐 [Forecasting Application](https://kamil-deployment-of-edgehill-durning.onrender.com/)  
+## 🔗 [Project Repository](https://github.com/kamilkenny/EDA)  
+## 🌐 [Live Forecasting Application](https://kamil-deployment-of-edgehill-durning.onrender.com/)  
 📊 [Exploratory Data Analysis Notebook](https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20%28EDA%29%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb)
 
 ---
@@ -288,7 +291,7 @@ The project examines half-hourly demand behaviour and applies Python-based model
 - Generation scheduling
 - System balancing analysis
 
-🔗 [Repository](https://github.com/kamilkenny/HALF-HOURLY-SHORT-TERM-ELECTRICITY-DEMAND-FORECASTING-FOR-INDEPENDENT-SERVICE-OPERATORS)
+## 🔗 [Project Repository](https://github.com/kamilkenny/HALF-HOURLY-SHORT-TERM-ELECTRICITY-DEMAND-FORECASTING-FOR-INDEPENDENT-SERVICE-OPERATORS)
 
 ---
 
@@ -315,7 +318,7 @@ The dashboard analyses:
 
 The project demonstrates my ability to transform large operational datasets into **governed KPIs, interactive dashboards and decision-ready evidence for technical and non-technical stakeholders**.
 
-🔗 [Repository](https://github.com/kamilkenny/Kamil-Energy-Monitoring-Dashboard)
+## 🔗 [Project Repository](https://github.com/kamilkenny/Kamil-Energy-Monitoring-Dashboard)
 
 ---
 
@@ -340,7 +343,7 @@ The analysis examines:
 
 The project translates large-scale international energy datasets into strategic evidence for renewable-energy planning and decarbonisation.
 
-🔗 [Repository](https://github.com/kamilkenny/Global-Renewable-Energy-Adoption)
+## 🔗 [Repository](https://github.com/kamilkenny/Global-Renewable-Energy-Adoption)
 
 ---
 
