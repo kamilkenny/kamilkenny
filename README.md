@@ -99,7 +99,8 @@ The platform demonstrates practical implementation of:
 
 🔗 [Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
 🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
-Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
+
+📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
 
 
 ---
@@ -150,7 +151,8 @@ The architecture uses PySpark and Databricks for scalable processing, Delta Lake
 
 🔗 [Repository](https://github.com/kamilkenny/GB-generation-availability-intelligence-platform)  
 🌐 [Live Platform](https://gb-generation-intelligence-kamil.azurewebsites.net/)
-Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
+
+📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
 ---
 
 ## 🔌 Great Britain Grid Congestion & Constraint Cost Intelligence Analytics
@@ -172,7 +174,9 @@ Predictive modelling was incorporated to identify elevated grid constraint risk.
 
 🔗 [Repository](https://github.com/kamilkenny/GB-Grid-Congestion-Intelligence-Analytics)  
 🌐 [Live Platform](https://gb-grid-congestion-kamil-898341.azurewebsites.net/)
-Complete Project Medium Publication: https://medium.com/@kamilkenny22/from-open-grid-data-to-azure-building-a-great-britain-grid-congestion-and-constraint-cost-e5c4e90a54a0
+
+
+📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/from-open-grid-data-to-azure-building-a-great-britain-grid-congestion-and-constraint-cost-e5c4e90a54a0
 ---
 
 ## 🌬️ Great Britain Wind Forecast Revision Monitor
@@ -195,7 +199,9 @@ The system supports:
 
 🔗 [Repository](https://github.com/kamilkenny/neso-wind-forecast-monitor)  
 🌐 [Live Dashboard](https://neso-wind-forecast-monitor-knbc32cgs89awbzxdfujqi.streamlit.app/)
-Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-cloud-based-neso-wind-forecast-revision-monitor-with-python-supabase-github-actions-699e348dae71
+
+
+📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-cloud-based-neso-wind-forecast-revision-monitor-with-python-supabase-github-actions-699e348dae71
 ---
 
 # 🧠 Forecasting & Predictive Analytics Projects
@@ -225,6 +231,7 @@ The deployed system supports both:
 🔗 [Repository](https://github.com/kamilkenny/A.I.-Forecasting-Modelling-with-Great-Britain-s-System-Operator-Generation-Outputs-NESO-Data-Portal-)  
 🌐 [Streamlit Application](https://kamil-uk-energy-generation-real-time-forecast.streamlit.app/)  
 🌐 [Render Application](https://deployment-of-uk-electricity-generation.onrender.com/)  
+
 📝 [Medium Article](https://medium.com/@kamilkenny22/ai-driven-forecasting-and-modelling-of-great-britains-system-operator-generation-outputs-bdcce3a6a387?postPublishedType=repub)
 
 ---
