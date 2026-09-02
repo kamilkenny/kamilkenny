@@ -127,6 +127,18 @@ The architecture incorporates:
 - SSRS reporting architecture
 - Visual Studio development
 
+## Live Platform
+
+## Public Flood Intelligence Dashboard
+
+**Greater Manchester Flood & River Intelligence**
+
+## https://gm-flood-intelligence-kamil-898341.azurewebsites.net/
+
+![Flood Monitoring ETL](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform/actions/workflows/flood-monitoring-refresh.yml/badge.svg)
+
+## Greater Manchester Flood & River Intelligence
+
 ## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
