@@ -137,8 +137,6 @@ The architecture incorporates:
 
 ![Flood Monitoring ETL](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform/actions/workflows/flood-monitoring-refresh.yml/badge.svg)
 
-## Greater Manchester Flood & River Intelligence
-
 ## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
