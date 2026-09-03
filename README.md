@@ -217,7 +217,7 @@ The system supports:
 
 # 🧠 Forecasting & Predictive Analytics Projects
 
-## 🇬🇧 Forecasting Great Britain's System Operator Generation Outputs
+## Great Britain Forecasting Great Britain's System Operator Generation Outputs
 
 ### 2009 to 2026 National Electricity Generation Forecasting
 
