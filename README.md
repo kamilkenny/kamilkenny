@@ -138,6 +138,8 @@ The architecture incorporates:
 
 ## 🔗 [Live Monitoring and Analytical Dashboard](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform](https://gm-flood-intelligence-kamil-898341.azurewebsites.net/)
 
+## 🌐 [Live Platform]([https://gb-generation-intelligence-kamil.azurewebsites.net/](https://gm-flood-intelligence-kamil-898341.azurewebsites.net/))
+
 ## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
