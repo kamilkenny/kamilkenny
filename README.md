@@ -254,7 +254,7 @@ The deployed system supports both:
 **Python • TensorFlow/Keras • BiLSTM • Informer • LSTM • GRU • XGBoost • scikit-learn • Pandas • NumPy • Streamlit**
 
 Developed an advanced deep learning forecasting system for Edge Hill University's **39.02 kWp hybrid photovoltaic and grid-connected energy system**.
-<img width="1027" height="895" alt="durning centre" src="https://github.com/user-attachments/assets/8b5a7b4c-c58e-4b46-ad74-451bf497d1c3" />
+
 
 The system uses six years of hourly PV generation and meteorological data.
 
