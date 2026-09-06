@@ -596,6 +596,8 @@ My technical work is particularly focused on data-intensive challenges across:
 
 # 📫 Connect With Me
 
+## 🌐 [My Dedicated Website](https://stkamilportfolioa16f6b.z1.web.core.windows.net/)
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ridwan-kamil-5ab32a296/">
