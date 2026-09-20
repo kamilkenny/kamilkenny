@@ -80,6 +80,42 @@ I combine predictive modelling with robust data engineering so that models are s
 
 # 🚀 Featured Data Engineering, AI & Analytics Projects
 
+## 🎓 Greater Manchester Skills & Opportunity Intelligence Platform — GM SkillsFlow
+
+**Python • SQL • Microsoft Fabric • Fabric Data Factory • Fabric Lakehouse • Fabric Warehouse • PySpark • Azure Blob Storage • Plotly Dash • GitHub Actions • Azure App Service**
+
+Developed an end-to-end skills and labour-market intelligence platform that integrates multiple public datasets from the **Department for Education, Nomis and supporting reference sources** to provide a unified analytical view of apprenticeships, youth participation, NEET indicators, labour-market conditions, Sector Subject Areas and MBacc pathways across Greater Manchester.
+
+The platform uses a complete **Bronze → Silver → Gold Medallion architecture** in Microsoft Fabric, with immutable source preservation, standardisation, data-quality validation, dimensional modelling, historical change management and automated public-data publication.
+
+The platform demonstrates practical implementation of:
+
+- Multi-source public data ingestion
+- Microsoft Fabric Data Factory orchestration
+- Bronze, Silver and Gold Medallion architecture
+- Fabric Lakehouse and Fabric Warehouse
+- Python, PySpark and SQL transformation
+- Dimensional modelling and fact table engineering
+- Slowly Changing Dimension Type 2
+- Slowly Changing Dimension Type 4
+- Historical data preservation and auditability
+- Data quality and validation controls
+- MBacc pathway and Sector Subject Area modelling
+- Private Azure Blob Storage serving
+- Two-slot snapshot publication
+- `NO_CHANGE` detection for unchanged analytical outputs
+- Plotly Dash application development
+- GitHub Actions production automation
+- OpenID Connect workload identity federation
+- Azure Managed Identity
+- Automated application health validation
+- Azure App Service deployment
+
+## 🌐 [Live Platform](https://gm-skillsflow-kamil-898341.azurewebsites.net)
+
+## 🔗 [Project Repository & Full Documentation](https://github.com/kamilkenny/greater-manchester-skills-opportunity-intelligence)
+
+
 ## 🚆 Greater Manchester Transport Intelligence Platform
 
 **Python • Azure SQL • Microsoft Fabric • Fabric Data Factory • Fabric Lakehouse • OneLake • FastAPI • GitHub Actions • Azure App Service**
