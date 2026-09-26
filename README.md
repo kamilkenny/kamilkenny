@@ -115,6 +115,8 @@ The platform demonstrates practical implementation of:
 
 ## 🔗 [Project Repository & Full Documentation](https://github.com/kamilkenny/greater-manchester-skills-opportunity-intelligence)
 
+## 📊 [Power BI Dashboard & Semantic Model](https://github.com/kamilkenny/Power-BI-Analytics-and-Semantic-Modelling---GM-SkillsFlow-Skills-Opportunity-Intelligence)
+
 
 ## 🚆 Greater Manchester Transport Intelligence Platform
 
@@ -277,14 +279,15 @@ The deployed system supports both:
 
 **Hindcasting**, for performing offline inference on historical time steps and analysing model residual errors.
 
-## 🌐 [Streamlit Web Application](https://kamil-uk-energy-generation-real-time-forecast.streamlit.app/) 
+## 🌐 [Streamlit Web Application](https://kamil-uk-energy-generation-real-time-forecast.streamlit.app/)
 
-## 🔗 [Project Repository](https://github.com/kamilkenny/A.I.-Forecasting-Modelling-with-Great-Britain-s-System-Operator-Generation-Outputs-NESO-Data-Portal-)  
- 
-## 🌐 [Render Application](https://deployment-of-uk-electricity-generation.onrender.com/)  
+## 🔗 [Project Repository](https://github.com/kamilkenny/A.I.-Forecasting-Modelling-with-Great-Britain-s-System-Operator-Generation-Outputs-NESO-Data-Portal-)
+
+## 🌐 [Render Application](https://deployment-of-uk-electricity-generation.onrender.com/)
 
 ## 📝 [Medium Article](https://medium.com/@kamilkenny22/ai-driven-forecasting-and-modelling-of-great-britains-system-operator-generation-outputs-bdcce3a6a387?postPublishedType=repub)
 
+## 📊 [Power BI Dashboard](https://github.com/kamilkenny/Kamil-Energy-Monitoring-Dashboard)
 ---
 
 ## ☀️ Hybrid Attention-Based Deep Learning Model for Multi-Step Power Generation Forecasting
