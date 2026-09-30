@@ -205,6 +205,56 @@ The architecture uses PySpark and Databricks for scalable processing, Delta Lake
 ## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/beyond-the-latest-forecast-building-a-live-gb-generation-availability-intelligence-platform-46eaf295f0f3
 ---
 
+
+---
+
+## ⚙️ Great Britain Operating Margin Intelligence Dashboard
+
+**Python • PostgreSQL • Supabase • Plotly Dash • GitHub Actions • Microsoft Azure • NESO System Operating Plan Data**
+
+Designed and deployed an end-to-end electricity system monitoring and operational intelligence application using NESO System Operating Plan data.
+
+The platform automatically collects and preserves historical system-operation records, engineers analytical indicators and presents system-readiness intelligence through a deployed cloud dashboard.
+
+The platform provides analytical insight into:
+
+- Operating margin
+- Reserve sufficiency
+- System imbalance
+- Dispatch readiness
+- Historical operating-margin behaviour
+- System readiness trends
+- Changes in available operational headroom
+- Historical comparison of system conditions
+
+The architecture demonstrates practical implementation of:
+
+- Automated NESO System Operating Plan data ingestion
+- Historical source preservation
+- PostgreSQL analytical data storage
+- Python-based transformation and feature engineering
+- Operating-margin indicator development
+- Reserve and imbalance analytics
+- Dispatch-readiness intelligence
+- Plotly Dash application development
+- Secure cloud database connectivity
+- Environment-based secrets management
+- GitHub Actions CI/CD automation
+- Production application monitoring
+- Azure App Service deployment
+- Cloud application troubleshooting and operational observability
+
+The project was developed as an independent analytical and decision-support platform, transforming publicly available electricity-system data into interpretable indicators for exploring operating margin, reserve position and wider system readiness.
+
+## 🌐 [Live Intelligence Dashboard](https://neso-gb-dispatch-readiness-kamil-hpaqe7d2eucebfa2.germanywestcentral-01.azurewebsites.net/)
+
+## 🔗 [Project Repository](https://github.com/kamilkenny/GB-System-Operating-Plan-and-Dispatch-Readiness-Monitor)
+
+## 📝 Complete Project Medium Publication:
+https://medium.com/@kamilkenny22/building-the-great-britain-operating-margin-intelligence-dashboard-with-python-postgresql-github-720b24cc2df4
+
+---
+
 ## 🔌 Great Britain Grid Congestion & Constraint Cost Intelligence Analytics
 
 **Python • Azure SQL • Flask • Machine Learning • GitHub Actions • Azure App Service • Grid Analytics**
