@@ -77,10 +77,70 @@ My modelling work focuses particularly on **energy forecasting and sequential op
 I combine predictive modelling with robust data engineering so that models are supported by **reproducible ingestion, transformation, validation, deployment and monitoring pipelines** rather than being developed as isolated experiments.
 
 ---
-
 # 🚀 Featured Data Engineering, AI & Analytics Projects
 
-## 🎓 Greater Manchester Skills & Opportunity Intelligence Platform — GM SkillsFlow
+## 💷 GM SkillsFund IQ | Adult Skills Funding, Delivery Evidence & Data Assurance Platform
+
+**Python • T-SQL • Azure SQL Database • Azure Functions • Managed Identity • REST APIs • Plotly Dash • Azure App Service • Data Quality • ETL/ELT • Data Governance**
+
+Developed an end-to-end **Adult Skills Funding and Education Intelligence Platform** integrating official published datasets from the **Greater Manchester Combined Authority (GMCA)** and the **Department for Education (DfE)** to support funding assurance, provider evidence analysis, borough-level learning intelligence and transparent public sector decision-making.
+
+The platform brings together published **2026/27 Adult Skills Fund allocations totalling approximately £97 million**, covering **32 allocation records and 29 unique provider UKPRNs**, alongside published DfE participation, achievement and local learning statistics.
+
+The objective is to provide a traceable analytical environment in which funding allocations can be examined alongside wider provider and geographical evidence, while preserving data definitions, source limitations and reporting accuracy.
+
+### ⚙️ Data Engineering Architecture
+
+**GMCA Funding Data + DfE Published Statistics → Python Ingestion & Validation → Azure SQL → Governed Analytical Queries → Plotly Dash → Azure App Service → Live Intelligence Platform**
+
+The platform demonstrates practical implementation of:
+
+- Multi-source government open-data integration
+- GMCA Adult Skills Fund allocation analysis
+- DfE provider participation and achievement data ingestion
+- Borough-level adult learning intelligence
+- Python-based ETL and data validation
+- Azure Functions ingestion and automation components
+- Azure SQL Database and T-SQL reporting
+- Provider matching using UKPRN identifiers
+- SQL staging, validation and analytical data structures
+- Funding allocation reconciliation and assurance
+- Data quality checks and exception identification
+- Preservation of source metadata and disclosure values
+- Data contracts and documented reporting assumptions
+- Handling suppressed and non-numeric statistical values
+- Avoidance of double-counting across overlapping statistical categories
+- Managed Identity and identity-based security design
+- Interactive analytical dashboards using Plotly Dash
+- Azure App Service deployment
+- Automated testing and operational documentation
+- Data traceability, reproducibility and auditability
+
+### 📊 Four Analytical Capabilities
+
+**01 | Funding Assurance:** Examine published Adult Skills Fund allocations, grant and procured funding arrangements, provider allocations and reconciliation evidence.
+
+**02 | Provider Evidence:** Explore published DfE participation and achievement statistics to understand the wider educational activity of funded training providers.
+
+**03 | Borough Learning Intelligence:** Investigate geographical differences in adult learning activity across Greater Manchester.
+
+**04 | Data Assurance:** Review data quality, source definitions, disclosure limitations and evidence supporting the analytical outputs.
+
+### 🔍 Responsible Data Interpretation
+
+An important engineering principle is maintaining the distinction between **funding allocations, actual expenditure and recorded learner outcomes**.
+
+Published provider-wide DfE statistics are contextual evidence and must not automatically be attributed to GMCA-funded delivery. Similarly, suppressed statistical values are preserved rather than incorrectly treated as zero.
+
+This independent portfolio project demonstrates how public funding and education datasets can be transformed into transparent, traceable and decision-supporting intelligence.
+
+### 🌐 [Live Platform](https://gm-skillsfundiq-b1-kamil-898341.azurewebsites.net/)
+
+### 🔗 [Project Repository & Full Documentation](https://github.com/kamilkenny/gm-skillsfund-iq-data-engineering-platform)
+
+---
+
+## 🎓 Greater Manchester Skills & Opportunity Intelligence Platform | GM SkillsFlow
 
 **Python • SQL • Microsoft Fabric • Fabric Data Factory • Fabric Lakehouse • Fabric Warehouse • PySpark • Azure Blob Storage • Plotly Dash • GitHub Actions • Azure App Service**
 
@@ -111,12 +171,13 @@ The platform demonstrates practical implementation of:
 - Automated application health validation
 - Azure App Service deployment
 
-## 🌐 [Live Platform](https://gm-skillsflow-kamil-898341.azurewebsites.net)
+### 🌐 [Live Platform](https://gm-skillsflow-kamil-898341.azurewebsites.net/)
 
-## 🔗 [Project Repository & Full Documentation](https://github.com/kamilkenny/greater-manchester-skills-opportunity-intelligence)
+### 🔗 [Project Repository & Full Documentation](https://github.com/kamilkenny/greater-manchester-skills-opportunity-intelligence)
 
-## 📊 [Power BI Dashboard & Semantic Model](https://github.com/kamilkenny/Power-BI-Analytics-and-Semantic-Modelling---GM-SkillsFlow-Skills-Opportunity-Intelligence)
+### 📊 [Power BI Dashboard & Semantic Model](https://github.com/kamilkenny/Power-BI-Analytics-and-Semantic-Modelling---GM-SkillsFlow-Skills-Opportunity-Intelligence)
 
+---
 
 ## 🚆 Greater Manchester Transport Intelligence Platform
 
@@ -128,19 +189,23 @@ The platform demonstrates practical implementation of:
 
 - Automated ETL/ELT
 - REST and public data ingestion
+- Transport for Greater Manchester GTFS ingestion
 - Microsoft Fabric Data Factory
 - Fabric Lakehouse and OneLake
 - Azure SQL Database
 - Dimensional modelling
+- Route, stop and operator data modelling
 - Data quality controls
-- Auditability
+- Historical snapshot preservation
+- Auditability and pipeline monitoring
 - GitHub Actions automation
 - Cloud application deployment
 
-## 🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
-## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)  
-## 📝 Complete Project Medium Publication: https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8
+### 🌐 [Live Platform](https://gm-transport-intelligence-kamil.azurewebsites.net/)
 
+### 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-transport-data-platform)
+
+### 📝 [Complete Project Medium Publication](https://medium.com/@kamilkenny22/building-a-production-grade-greater-manchester-transport-intelligence-platform-from-raw-gtfs-files-a552b7c015b8)
 
 ---
 
@@ -148,7 +213,7 @@ The platform demonstrates practical implementation of:
 
 **Python • SQL Server • Azure SQL • T-SQL • SSIS • SSRS • SSMS • Visual Studio • GitHub Actions**
 
-Enterprise-style flood and river monitoring ETL and reporting platform using Environment Agency data.
+Developed an enterprise-style flood and river monitoring ETL and reporting platform using publicly available **Environment Agency data**, demonstrating structured data ingestion, validation, relational modelling and operational reporting.
 
 The architecture incorporates:
 
@@ -166,18 +231,6 @@ The architecture incorporates:
 - SSIS implementation
 - SSRS reporting architecture
 - Visual Studio development
-
-
-
-## Public Flood Intelligence Dashboard
-
-
-![Flood Monitoring ETL](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform/actions/workflows/flood-monitoring-refresh.yml/badge.svg)
-
-## 🌐 [Live Monitoring and Analytical Dashboard](https://gm-flood-intelligence-kamil-898341.azurewebsites.net/)
-
-
-## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)
 
 ---
 
