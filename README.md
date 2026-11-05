@@ -208,6 +208,10 @@ The architecture incorporates:
 - SSIS implementation
 - SSRS reporting architecture
 - Visual Studio development
+  
+## 🌐 [Live Platform](https://gm-flood-intelligence-kamil-898341.azurewebsites.net/)
+## 🔗 [Project Repository](https://github.com/kamilkenny/greater-manchester-flood-monitoring-data-platform)  
+- 
 
 ---
 
