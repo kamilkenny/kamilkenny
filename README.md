@@ -93,29 +93,6 @@ The objective is to provide a traceable analytical environment in which funding 
 
 **GMCA Funding Data + DfE Published Statistics → Python Ingestion & Validation → Azure SQL → Governed Analytical Queries → Plotly Dash → Azure App Service → Live Intelligence Platform**
 
-The platform demonstrates practical implementation of:
-
-- Multi-source government open-data integration
-- GMCA Adult Skills Fund allocation analysis
-- DfE provider participation and achievement data ingestion
-- Borough-level adult learning intelligence
-- Python-based ETL and data validation
-- Azure Functions ingestion and automation components
-- Azure SQL Database and T-SQL reporting
-- Provider matching using UKPRN identifiers
-- SQL staging, validation and analytical data structures
-- Funding allocation reconciliation and assurance
-- Data quality checks and exception identification
-- Preservation of source metadata and disclosure values
-- Data contracts and documented reporting assumptions
-- Handling suppressed and non-numeric statistical values
-- Avoidance of double-counting across overlapping statistical categories
-- Managed Identity and identity-based security design
-- Interactive analytical dashboards using Plotly Dash
-- Azure App Service deployment
-- Automated testing and operational documentation
-- Data traceability, reproducibility and auditability
-
 ### 📊 Four Analytical Capabilities
 
 **01 | Funding Assurance:** Examine published Adult Skills Fund allocations, grant and procured funding arrangements, provider allocations and reconciliation evidence.
